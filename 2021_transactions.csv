@@ -1,0 +1,129 @@
+﻿Transaction Date,Merchant,Category,Amount
+1/1/2021,Supermart,Groceries,50
+1/2/2021,Coffee Corner,Coffee,4.75
+1/5/2021,The Bistro,Dining,30.2
+1/7/2021,Online Emporium,Online Shopping,80.5
+1/10/2021,Fuel Express,Transportation,35.1
+1/12/2021,Fashion Trends,Retail,120.25
+1/15/2021,Style Central,Retail,65.8
+1/18/2021,CineMagic,Entertainment,12.5
+1/20/2021,Tech Universe,Retail,150
+1/25/2021,Bookworm's Paradise,Books,28.9
+2/1/2021,FitZone,Gym/Fitness,40
+2/3/2021,Supermart,Groceries,55.5
+2/5/2021,Coffee Corner,Coffee,4.5
+2/8/2021,The Bistro,Dining,35.75
+2/10/2021,Online Emporium,Online Shopping,90.2
+2/12/2021,Fuel Express,Transportation,40.3
+2/15/2021,Fashion Trends,Retail,115.75
+2/18/2021,Style Central,Retail,62.9
+2/20/2021,CineMagic,Entertainment,13
+2/25/2021,Tech Universe,Retail,155
+2/28/2021,Bookworm's Paradise,Books,25.6
+3/1/2021,FitZone,Gym/Fitness,40
+3/3/2021,Supermart,Groceries,45.5
+3/5/2021,Coffee Corner,Coffee,4.25
+3/8/2021,The Bistro,Dining,32.8
+3/10/2021,Online Emporium,Online Shopping,85.5
+3/12/2021,Fuel Express,Transportation,33.7
+3/15/2021,Fashion Trends,Retail,112.75
+3/18/2021,Style Central,Retail,70.2
+3/20/2021,CineMagic,Entertainment,11.75
+3/25/2021,Tech Universe,Retail,145
+3/28/2021,Bookworm's Paradise,Books,32.9
+4/1/2021,FitZone,Gym/Fitness,40
+4/3/2021,Supermart,Groceries,50.5
+4/5/2021,Coffee Corner,Coffee,4.75
+4/8/2021,The Bistro,Dining,38.2
+4/10/2021,Online Emporium,Online Shopping,95.5
+4/12/2021,Fuel Express,Transportation,35.1
+4/15/2021,Fashion Trends,Retail,120.25
+4/18/2021,Style Central,Retail,67.8
+4/20/2021,CineMagic,Entertainment,12.5
+4/25/2021,Tech Universe,Retail,150
+5/1/2021,Bookworm's Paradise,Books,28.9
+5/3/2021,FitZone,Gym/Fitness,40
+5/5/2021,Supermart,Groceries,50.5
+5/8/2021,Coffee Corner,Coffee,4.75
+5/10/2021,The Bistro,Dining,39.2
+5/12/2021,Online Emporium,Online Shopping,92.5
+5/15/2021,Fuel Express,Transportation,32.5
+5/18/2021,Fashion Trends,Retail,110.5
+5/20/2021,Style Central,Retail,68.25
+5/25/2021,CineMagic,Entertainment,14.75
+6/1/2021,Tech Universe,Retail,135
+6/3/2021,Bookworm's Paradise,Books,26.8
+6/5/2021,FitZone,Gym/Fitness,40
+6/8/2021,Supermart,Groceries,48.5
+6/10/2021,Coffee Corner,Coffee,4.5
+6/12/2021,The Bistro,Dining,37.8
+6/15/2021,Online Emporium,Online Shopping,88.5
+6/18/2021,Fuel Express,Transportation,33.7
+6/20/2021,Fashion Trends,Retail,105.75
+6/25/2021,Style Central,Retail,62.9
+6/28/2021,CineMagic,Entertainment,13.5
+7/1/2021,Tech Universe,Retail,140
+7/3/2021,Bookworm's Paradise,Books,28.6
+7/5/2021,FitZone,Gym/Fitness,40
+7/8/2021,Supermart,Groceries,52.5
+7/10/2021,Coffee Corner,Coffee,4.75
+7/12/2021,The Bistro,Dining,36.8
+7/15/2021,Online Emporium,Online Shopping,90.5
+7/18/2021,Fuel Express,Transportation,35.1
+7/20/2021,Fashion Trends,Retail,120.25
+7/25/2021,Style Central,Retail,65.8
+7/28/2021,CineMagic,Entertainment,12.5
+8/1/2021,Tech Universe,Retail,150
+8/3/2021,Bookworm's Paradise,Books,28.9
+8/5/2021,FitZone,Gym/Fitness,40
+8/8/2021,Supermart,Groceries,55.5
+8/10/2021,Coffee Corner,Coffee,5
+8/12/2021,The Bistro,Dining,39.8
+8/15/2021,Online Emporium,Online Shopping,95.5
+8/18/2021,Fuel Express,Transportation,32.7
+8/20/2021,Fashion Trends,Retail,115.75
+8/25/2021,Style Central,Retail,68.9
+8/28/2021,CineMagic,Entertainment,13.25
+9/1/2021,Tech Universe,Retail,155
+9/3/2021,Bookworm's Paradise,Books,29.6
+9/5/2021,FitZone,Gym/Fitness,40
+9/8/2021,Supermart,Groceries,55.5
+9/10/2021,Coffee Corner,Coffee,5.25
+9/12/2021,The Bistro,Dining,40.5
+9/15/2021,Online Emporium,Online Shopping,98.75
+9/18/2021,Fuel Express,Transportation,31.4
+9/20/2021,Fashion Trends,Retail,112.8
+9/25/2021,Style Central,Retail,67.9
+9/28/2021,CineMagic,Entertainment,14.5
+10/1/2021,Tech Universe,Retail,160
+10/3/2021,Bookworm's Paradise,Books,29.9
+10/5/2021,FitZone,Gym/Fitness,40
+10/8/2021,Supermart,Groceries,52.75
+10/10/2021,Coffee Corner,Coffee,5.5
+10/12/2021,The Bistro,Dining,41.2
+10/15/2021,Online Emporium,Online Shopping,99.5
+10/18/2021,Fuel Express,Transportation,30.8
+10/20/2021,Fashion Trends,Retail,110.5
+10/25/2021,Style Central,Retail,65.25
+10/28/2021,CineMagic,Entertainment,13.75
+11/1/2021,Tech Universe,Retail,150
+11/3/2021,Bookworm's Paradise,Books,28.6
+11/5/2021,FitZone,Gym/Fitness,40
+11/8/2021,Supermart,Groceries,55.25
+11/10/2021,Coffee Corner,Coffee,5.25
+11/12/2021,The Bistro,Dining,39.8
+11/15/2021,Online Emporium,Online Shopping,96.5
+11/18/2021,Fuel Express,Transportation,32.4
+11/20/2021,Fashion Trends,Retail,115.8
+11/25/2021,Style Central,Retail,68.9
+11/28/2021,CineMagic,Entertainment,14.25
+12/1/2021,Tech Universe,Retail,155
+12/3/2021,Bookworm's Paradise,Books,28.9
+12/5/2021,FitZone,Gym/Fitness,40
+12/8/2021,Supermart,Groceries,50.5
+12/10/2021,Coffee Corner,Coffee,4.75
+12/12/2021,The Bistro,Dining,38.2
+12/15/2021,Online Emporium,Online Shopping,95.5
+12/18/2021,Fuel Express,Transportation,34.8
+12/20/2021,Fashion Trends,Retail,120.5
+12/25/2021,Style Central,Retail,70.25
