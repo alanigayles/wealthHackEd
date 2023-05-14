@@ -1,0 +1,128 @@
+﻿Transaction Date,Merchant,Category,Amount
+2022-01-01,Fresh Mart,Groceries,50
+2022-01-02,Brew & Sip,Coffee,4.75
+2022-01-05,Tasty Bites,Dining,30.2
+2022-01-07,Swift Deals,Online Shopping,80.5
+2022-01-10,Fuel Stop,Transportation,35.1
+2022-01-12,Trendy Mart,Retail,120.25
+2022-01-15,Fashion Avenue,Retail,65.8
+2022-01-18,Starlight Cinemas,Entertainment,12.5
+2022-01-20,Tech Zone,Retail,150
+2022-01-25,Bookworm's Haven,Books,28.9
+2022-02-01,FitLife Club,Fitness,40
+2022-02-03,Fresh Mart,Groceries,55.5
+2022-02-05,Brew & Sip,Coffee,4.5
+2022-02-08,Tasty Bites,Dining,35.75
+2022-02-10,Swift Deals,Online Shopping,90.2
+2022-02-12,Fuel Stop,Transportation,40.3
+2022-02-15,Trendy Mart,Retail,115.75
+2022-02-18,Fashion Avenue,Retail,62.9
+2022-02-20,Starlight Cinemas,Entertainment,13
+2022-02-25,Tech Zone,Retail,155
+2022-02-28,Bookworm's Haven,Books,25.6
+2022-03-01,FitLife Club,Fitness,40
+2022-03-03,Fresh Mart,Groceries,45.5
+2022-03-05,Brew & Sip,Coffee,4.25
+2022-03-08,Tasty Bites,Dining,32.8
+2022-03-10,Swift Deals,Online Shopping,85.5
+2022-03-12,Fuel Stop,Transportation,33.7
+2022-03-15,Trendy Mart,Retail,112.75
+2022-03-18,Fashion Avenue,Retail,70.2
+2022-03-20,Starlight Cinemas,Entertainment,11.75
+2022-03-25,Tech Zone,Retail,145
+2022-03-28,Bookworm's Haven,Books,32.9
+2022-04-01,FitLife Club,Fitness,40
+2022-04-03,Fresh Mart,Groceries,50.5
+2022-04-05,Brew & Sip,Coffee,4.75
+2022-04-08,Tasty Bites,Dining,38.2
+2022-04-10,Swift Deals,Online Shopping,95.5
+2022-04-12,Fuel Stop,Transportation,35.1
+2022-04-15,Trendy Mart,Retail,120.25
+2022-04-18,Fashion Avenue,Retail,67.8
+2022-04-20,Starlight Cinemas,Entertainment,12.5
+2022-04-25,Tech Zone,Retail,150
+2022-04-28,Bookworm's Haven,Books,28.9
+2022-05-01,Coffee Shop,Coffee,4.75
+2022-05-03,Restaurant,Dining,32.5
+2022-05-05,Online Retailer,Online Shopping,85
+2022-05-07,Gas Station,Transportation,30.25
+2022-05-10,Department Store,Retail,115.6
+2022-05-12,Clothing Store,Retail,62.75
+2022-05-15,Movie Theater,Entertainment,11.25
+2022-05-18,Electronics Store,Retail,160
+2022-05-20,Bookstore,Books,25.9
+2022-05-23,Fitness,Gym Membership,40
+2022-06-01,Supermarket,Groceries,50.5
+2022-06-03,Coffee Shop,Coffee,4.5
+2022-06-05,Restaurant,Dining,35.8
+2022-06-08,Online Retailer,Online Shopping,90.5
+2022-06-10,Gas Station,Transportation,40.1
+2022-06-12,Department Store,Retail,120.75
+2022-06-15,Clothing Store,Retail,65.9
+2022-06-18,Movie Theater,Entertainment,12.5
+2022-06-20,Electronics Store,Retail,155
+2022-06-23,Bookstore,Books,28.9
+2022-07-01,Gym Membership,Fitness,40
+2022-07-03,Supermarket,Groceries,55.5
+2022-07-05,Coffee Shop,Coffee,4.75
+2022-07-08,Restaurant,Dining,38.2
+2022-07-10,Online Retailer,Online Shopping,95.5
+2022-07-12,Gas Station,Transportation,35.1
+2022-07-15,Department Store,Retail,120.25
+2022-07-18,Clothing Store,Retail,67.8
+2022-07-20,Movie Theater,Entertainment,12.5
+2022-07-25,Electronics Store,Retail,150
+2022-07-28,Bookstore,Books,28.9
+2022-08-01,Fitness,Gym Membership,40
+2022-08-03,Supermarket,Groceries,50.5
+2022-08-05,Coffee Shop,Coffee,4.75
+2022-08-08,Restaurant,Dining,35.8
+2022-08-10,Online Retailer,Online Shopping,90.5
+2022-08-12,Gas Station,Transportation,40.1
+2022-08-15,Department Store,Retail,120.75
+2022-08-18,Clothing Store,Retail,65.9
+2022-08-20,Movie Theater,Entertainment,12.5
+2022-08-23,Electronics Store,Retail,155
+2022-08-26,Bookstore,Books,28.9
+2022-09-01,Trendy Mart,Retail,110.5
+2022-09-03,Fashion Avenue,Retail,68.25
+2022-09-05,Starlight Cinemas,Entertainment,14.75
+2022-09-08,Tech Zone,Retail,135
+2022-09-10,Bookworm's Haven,Books,26.8
+2022-09-12,FitLife Club,Fitness,40
+2022-09-15,Fresh Mart,Groceries,50.5
+2022-09-18,Brew & Sip,Coffee,4.75
+2022-09-20,Tasty Bites,Dining,39.2
+2022-09-25,Swift Deals,Online Shopping,92.5
+2022-10-01,Fuel Stop,Transportation,33.7
+2022-10-03,Trendy Mart,Retail,105.75
+2022-10-05,Fashion Avenue,Retail,62.9
+2022-10-08,Starlight Cinemas,Entertainment,13.5
+2022-10-10,Tech Zone,Retail,140
+2022-10-12,Bookworm's Haven,Books,28.6
+2022-10-15,FitLife Club,Fitness,40
+2022-10-18,Fresh Mart,Groceries,48.5
+2022-10-20,Brew & Sip,Coffee,4.5
+2022-10-25,Tasty Bites,Dining,37.8
+2022-10-28,Swift Deals,Online Shopping,88.5
+2022-11-01,Fuel Stop,Transportation,35.1
+2022-11-03,Trendy Mart,Retail,120.25
+2022-11-05,Fashion Avenue,Retail,65.8
+2022-11-08,Starlight Cinemas,Entertainment,12.5
+2022-11-10,Tech Zone,Retail,150
+2022-11-12,Bookworm's Haven,Books,28.9
+2022-11-15,FitLife Club,Fitness,40
+2022-11-18,Fresh Mart,Groceries,52.5
+2022-11-20,Brew & Sip,Coffee,4.75
+2022-11-25,Tasty Bites,Dining,36.8
+2022-11-28,Swift Deals,Online Shopping,90.5
+2022-12-01,Trendy Mart,Retail,115.75
+2022-12-03,Fashion Avenue,Retail,68.9
+2022-12-05,Starlight Cinemas,Entertainment,13.25
+2022-12-08,Tech Zone,Retail,155
+2022-12-10,Bookworm's Haven,Books,29.6
+2022-12-15,FitLife Club,Fitness,40
+2022-12-18,Fresh Mart,Groceries,55.5
+2022-12-20,Brew & Sip,Coffee,5
+2022-12-25,Tasty Bites,Dining,39.8
+2022-12-28,Swift Deals,Online Shopping,95.5
